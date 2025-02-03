@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+xgboost
+nltk
+networkx
+matplotlib
+pyvis
+plotly
